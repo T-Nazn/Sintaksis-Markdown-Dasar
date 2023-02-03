@@ -1,11 +1,14 @@
-# Thounsen.github.io
+# Thounsen
 Repo ini merupakan _bookmark_ berbahasa Indonesia.
 
 ---
 
 ## Daftar Kamus
-- Label Dasar HTML (coming soon)
-- Sintaksis Dasar Markdown (coming soon)
+- Label HTML Dasar (coming soon)
+- Sintaksis Markdown Dasar (coming soon)
+- CSS Dasar (coming soon)
 
-## Lisensi
+## Tentang
+[Pengembang](https://github.com/Thounsen)
+
 License [MIT](../LICENSE)
