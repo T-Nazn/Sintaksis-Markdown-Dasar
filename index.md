@@ -1,14 +1,31 @@
-# Thounsen
-Repo ini merupakan _bookmark_ berbahasa Indonesia.
+# T-Nazn Project
+
+Proyek ini merupakan kamus dalam bahasa Indonesia yang saya buat untuk membantu pada dasarnya diri saya sendiri.
 
 ---
 
-## Daftar Kamus
-- Label HTML Dasar (coming soon)
-- Sintaksis Markdown Dasar (coming soon)
-- CSS Dasar (coming soon)
+# Daftar Isi
+- Pembuka
+- Typography
+- Style
 
-## Tentang
-[Pengembang](https://github.com/Thounsen)
+---
+## Pembuka
+* Apa itu markdown?
+* Eksistensi berkas markdown
+* Penggunaan
+* Biasanya
 
-License [MIT](../LICENSE)
+## Typography
+* Membuat `heading` di markdown
+* Emphasis
+* List
+* Comment
+
+## Style
+* Link
+* Tables
+* Blockquotes
+
+## Lisensi
+License [MIT](..)
