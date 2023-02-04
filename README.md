@@ -1,24 +1,18 @@
-# T-Nazn Project
+# Sintaksis Markdown Dasar
 
-Proyek ini merupakan kamus dalam bahasa Indonesia yang saya buat untuk membantu pada dasarnya diri saya sendiri.
-
----
-
-# Daftar Isi
-- Pembuka
-- Typography
-- Style
+Pada dasarnya, saya membuat repo ini sebagai pegangan saya untuk membuat buku dengan ekstensi berkas `.md`
+Beberapa dasar sintaksis markdown:
 
 ---
-## Pembuka
-* Apa itu markdown?
-* Eksistensi berkas markdown
-* Penggunaan
-* Biasanya
+
+## Tentang
+* Apa itu markdown
+* Ekstensi berkas markdown
+* Penggunaan yang benar
 
 ## Typography
-* Membuat `heading` di markdown
-* Emphasis
+* [Heading](/id/Typography/headings.md)
+* Bold & Italic Text
 * List
 * Comment
 
@@ -28,4 +22,4 @@ Proyek ini merupakan kamus dalam bahasa Indonesia yang saya buat untuk membantu 
 * Blockquotes
 
 ## Lisensi
-License [MIT](..)
+License [MIT](/LICENSE)
