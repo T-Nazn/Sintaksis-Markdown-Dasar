@@ -1,8 +1,6 @@
 Proyek ini merupakan kamus markdown dalam bahasa Indonesia yang saya buat untuk membantu (pada dasarnya) diri saya sendiri.
 
-Di sini terdapat beberapa sintaksis. saya membaginya menjadi 3 kategori berdasarkan isi konten repo ini. Diantaranya Pembuka, Typography, dan Style.
-
-Kenapa dikategorikan seperti ini? Temui [penjelasan ketiga kategori](..) ini.
+Di sini terdapat beberapa sintaks yang saya urutkan berdasarkan kesulitan dalam sintaksnya.
 
 ---
 
@@ -12,16 +10,11 @@ Kenapa dikategorikan seperti ini? Temui [penjelasan ketiga kategori](..) ini.
 * Penggunaan
 * Biasanya
 
-## Typography
-* [Headings](/id/Typography/headings.md)
-* Emphasis
-* List
-* Comment
-
-## Style
-* Link
-* Tables
-* Blockquotes
+## Basic
+* [Headings](/id/headings.md)
+* [Paragraph](/id/paragraph.md)
+* [Line Breaks](/id/linebreaks.md)
+* [Blockquotes](/id/blockquotes.md)
 
 ## Lisensi
-License [MIT](../LICENCE)
+License [MIT](/LICENCE)
