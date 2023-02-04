@@ -30,3 +30,5 @@ Ini contoh yang salah.
 > Secara otomatis dengan menggunakan contoh yang salah, maka hasil yang didapatkan adalah menjadi satu paragraph.
 
 Silakan untuk menambahkan dan memperbaiki.
+
+[<<Previous]() | [Main Page](/index.md) | [Next>>]()
