@@ -13,7 +13,7 @@ Kenapa dikategorikan seperti ini? Temui [penjelasan ketiga kategori](..) ini.
 * Biasanya
 
 ## Typography
-* Membuat `heading` di markdown
+* [Headings](/id/Typography/headings.md)
 * Emphasis
 * List
 * Comment
@@ -24,4 +24,4 @@ Kenapa dikategorikan seperti ini? Temui [penjelasan ketiga kategori](..) ini.
 * Blockquotes
 
 ## Lisensi
-License [MIT](..)
+License [MIT](../LICENCE)
