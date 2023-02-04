@@ -10,17 +10,11 @@ Beberapa dasar sintaksis markdown:
 * Ekstensi berkas markdown
 * Penggunaan yang benar
 
-## Typography
-* [Heading](/id/Typography/headings.md)
-* [Paragraph](/id/Typography/paragraph.md)
-* [Line Breaks](/id/Typography/linebreaks.md)
-* List
-* Comment
-
-## Style
-* Link
-* Tables
-* Blockquotes
+## Dasar
+* [Heading](/id/headings.md)
+* [Paragraph](/id/paragraph.md)
+* [Line Breaks](/id/linebreaks.md)
+* [Blockquotes](/id/blockquotes.md)
 
 ## Lisensi
 License [MIT](/LICENSE)
