@@ -12,7 +12,8 @@ Beberapa dasar sintaksis markdown:
 
 ## Typography
 * [Heading](/id/Typography/headings.md)
-* Bold & Italic Text
+* [Paragraph](/id/Typography/paragraph.md)
+* [Line Breaks](/id/Typography/linebreaks.md)
 * List
 * Comment
 
