@@ -1,3 +1,8 @@
+---
+title: Headings Markdown - T-Nazn
+description: Pelajari dan ketahui tentang markdown dalam bahasa Indonesia!
+---
+
 # Headings
  Dalam `HTML` kita dapat menggunakan tag headings seperti `<h1>` dan lainnya.
 Sementara dalam  markdown menggunakan tagar/hash `#`
@@ -73,4 +78,4 @@ Heading tanpa spasi
 
 Silakan tambahkan apabila dirasa kurang & tidak efisien.
 
-[<<Back](/Sintaksis-Markdown-Dasar/) | [Next>>](/Sintaksis-Markdown-Dasar/id/paragraph.md)
+[<<Previous]() | [Main Page](/Sintaksis-Markdown-Dasar/) | [Next>>](/Sintaksis-Markdown-Dasar/id/paragraph.md)
