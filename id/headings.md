@@ -1,6 +1,6 @@
 ---
 title: Headings Markdown - T-Nazn
-description: Pelajari dan ketahui tentang markdown dalam bahasa Indonesia!
+description: Heading Markdown, dan cara menggunakannya.
 ---
 
 # Headings
