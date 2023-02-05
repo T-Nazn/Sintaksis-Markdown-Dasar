@@ -4,21 +4,21 @@ Sementara dalam  markdown menggunakan tagar/hash `#`
 
 ---
 
-## Sintaksis Heading
- Ekstensi berkas yang saya gunakan di sini adalah `.md` dan jelas dapat dilihat saya menggunakan markdown pada GitHub.
+# Sintaksis Heading
+ Ekstensi berkas yang saya gunakan adalah `.md`.
 
 Setiap jumlah `#` menunjukkan tingkat dari heading dalam `HTML` dan heading ini berjumlah 6.
 
-### Tagar/Hash `#`
+## Tagar/Hash `#`
 Berikut beberapa contoh dari penggunaan `#` di markdown:
 
-```markdown
- # Heading 1
- ## Heading 2
- ### Heading 3
- #### Heading 4
- ##### Heading 5
- ###### Heading 6
+```
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 ```
 
 Kemudian dalam HTML menjadi:
@@ -29,11 +29,10 @@ Kemudian dalam HTML menjadi:
 ##### Heading 5
 ###### Heading 6
 
-### Alternatif Heading
- Selain menggunakan tagar/hash Anda juga dapat menggunakan elemen lainnya, beberapa contoh:
-Dalam alternatif ini terdapat dua tingkat `headings` `==` untuk menunjukkan `<h1>` dan `--` untuk `<h2>`
+## Alternatif Heading
+Dalam alternatif ini terdapat dua tingkat `headings` `==` untuk `<h1>` dan `--` untuk `<h2>`
 
-```markdown
+```
  Heading 1
  =========
 
@@ -49,16 +48,19 @@ Heading 1
 Heading 2
 ---------
 
-### Cara Penggunaan
- Cara penggunaan heading ini perlu diperhatikan dari spasinya. Beberapa sintaksis dapat bekerja saat ada spasi yang memisahkan antara sintaksis dan isi.
+---
 
-Contoh penggunaan yang benar untuk heading:
+## Cara Penggunaan
 
-Benar ✅
+Sintaks heading memerlukan spasi agar dapat bekerja.
+
+**Benar** ✅
+Heading menggunakan spasi
 ```
  # Heading Benar
 ```
-Salah ❎
+**Salah** ❎
+Heading tanpa spasi
 ```
  #Heading Salah
 ```
@@ -70,3 +72,5 @@ Salah ❎
 ---
 
 Silakan tambahkan apabila dirasa kurang & tidak efisien.
+
+[<<Back](/Sintaksis-Markdown-Dasar/) | [Next>>](/Sintaksis-Markdown-Dasar/id/paragraph.md)
