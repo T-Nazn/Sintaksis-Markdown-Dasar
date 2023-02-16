@@ -26,5 +26,7 @@ Di sini terdapat beberapa sintaks yang saya urutkan berdasarkan kesulitan dalam 
 * [Headings](/id/headings.md)
 * [Paragraph](/id/paragraph.md)
 * [Line Breaks](/id/linebreaks.md)
+* [Horizontal](/id/horizontal.md)
 * [Lists](/id/lists.md)
 * [Blockquotes](/id/blockquotes.md)
+* [Code](/id/code.md)
