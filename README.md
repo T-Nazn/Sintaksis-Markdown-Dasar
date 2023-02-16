@@ -14,7 +14,5 @@ Beberapa dasar sintaksis markdown:
 * [Heading](/id/headings.md)
 * [Paragraph](/id/paragraph.md)
 * [Line Breaks](/id/linebreaks.md)
+* [Lists](/id/lists.md)
 * [Blockquotes](/id/blockquotes.md)
-
-## Lisensi
-License [MIT](/LICENSE)
