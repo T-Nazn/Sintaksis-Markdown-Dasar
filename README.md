@@ -16,3 +16,7 @@ Beberapa dasar sintaksis markdown:
 * [Line Breaks](/id/linebreaks.md)
 * [Lists](/id/lists.md)
 * [Blockquotes](/id/blockquotes.md)
+
+## Mempelajari Markdown
+Sekali lagi, ini hanya semacam list/daftar dari sintaks markdown yang sekaligus mempelajari basic markdown.
+Jika anda ingin mempelajari markdown, mungkin dapat mengunjungi [Learning Markdown oleh mrofi](https://github.com/mrofi/learning-markdown)
