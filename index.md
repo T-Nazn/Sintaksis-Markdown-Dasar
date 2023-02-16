@@ -10,7 +10,7 @@ Markdown Sintaks
 Unofficial
 ----------
 
-Proyek ini merupakan kamus markdown dalam bahasa Indonesia yang saya buat untuk membantu (pada dasarnya) diri saya sendiri.
+Repo ini merupakan kamus markdown dalam bahasa Indonesia yang saya buat untuk membantu (pada dasarnya) diri saya sendiri.
 
 Di sini terdapat beberapa sintaks yang saya urutkan berdasarkan kesulitan dalam sintaksnya.
 
@@ -22,8 +22,9 @@ Di sini terdapat beberapa sintaks yang saya urutkan berdasarkan kesulitan dalam 
 * Penggunaan
 * Biasanya
 
-## Basic
+## Sintaks
 * [Headings](/id/headings.md)
 * [Paragraph](/id/paragraph.md)
 * [Line Breaks](/id/linebreaks.md)
+* [Lists](/id/lists.md)
 * [Blockquotes](/id/blockquotes.md)
