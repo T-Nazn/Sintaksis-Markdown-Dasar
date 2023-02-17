@@ -10,8 +10,6 @@ Sementara dalam  markdown menggunakan tagar/hash `#`
 ---
 
 # Sintaksis Heading
- Ekstensi berkas yang saya gunakan adalah `.md`.
-
 Setiap jumlah `#` menunjukkan tingkat dari heading dalam `HTML` dan heading ini berjumlah 6.
 
 ## Tagar/Hash `#`
@@ -78,4 +76,4 @@ Heading tanpa spasi
 
 Silakan tambahkan apabila dirasa kurang & tidak efisien.
 
-[<<Previous]() | [Main Page](/Sintaksis-Markdown-Dasar/) | [Next>>](/Sintaksis-Markdown-Dasar/id/paragraph.md)
+[<<Previous]() | [Main Page](/Sintaksis-Markdown-Dasar/) | [Next>>](/Sintaksis-Markdown-Dasar/id/paragraph)
