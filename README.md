@@ -3,7 +3,8 @@
 Pada dasarnya, saya membuat repo ini sebagai pegangan saya untuk membuat buku dengan ekstensi berkas `.md`
 Beberapa dasar sintaksis markdown:
 
-See [Sintaksis Markdown Dasar](/Sintaksis-Markdown-Dasar/) untuk lebih lengkap.
+Lihat [Sintaksis Markdown Dasar](/Sintaksis-Markdown-Dasar/) untuk lebih lengkap.
+
 ---
 
 ## Tentang
