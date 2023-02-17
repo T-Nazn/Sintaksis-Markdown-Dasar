@@ -76,4 +76,4 @@ Heading tanpa spasi
 
 Silakan tambahkan apabila dirasa kurang & tidak efisien.
 
-[<<Previous]() | [Main Page](/Sintaksis-Markdown-Dasar/) | [Next>>](/Sintaksis-Markdown-Dasar/id/paragraph)
+[<<Previous]() | [Main Page](/Sintaksis-Markdown-Dasar/) | [Next>>](/Sintaksis-Markdown-Dasar/id/paragraph.md)
