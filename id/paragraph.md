@@ -7,4 +7,4 @@ Membuat paragraph di markdown sangatlah mudah. Contohnya ini dan di bawah ini:
 
 ---
 
-[<<Previous](/id/headings.html) | [Main Page](/) | [Next>>]()
+[<<Previous](Sintaksis-Markdown-Dasar/id/headings) | [Main Page](Sintaksis-Markdown-Dasar/) | [Next>>]()
